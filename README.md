@@ -42,6 +42,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## ✍️ Author
-Akshit Tiwari & Prajwol Regmi  
-Under guidance of Dr. Sumit Kumar
+Akshit Tiwari
 
